@@ -88,3 +88,4 @@ public class MergSort {
         printArray(arr);
     }
 }
+//Time complexity=theta(nlogn)

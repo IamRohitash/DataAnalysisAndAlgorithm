@@ -52,3 +52,4 @@ public class BinarySearch {
 
 
 }
+//Time complexity=Theta(logn)

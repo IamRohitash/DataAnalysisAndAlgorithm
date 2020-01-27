@@ -40,3 +40,4 @@ public class LinearSearch {
 
 
 }
+//Time complexity=O(n)
